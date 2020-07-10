@@ -1,0 +1,37 @@
+:root{font-family:'Montserrat', sans-serif;}
+
+.imagem_principal{ width:883px; height:374px ;}/*12*/
+
+.titulo_1{font-Weight:900px;font-size:89px;Line-Height: 79px;Color: #FFB300}/*1*/
+
+.titulo_2{font-Weight:900px;Color: #FFB300}
+
+.autora{text-align:right;color:black; font-weight:bolder;font-size:21px}/*2*/
+
+.inicio {font-size:21px;font-weight:600;Line-height:1.61em;color:black;text-align: justify;}/*3*/
+hr {
+    margin: 34px 0;
+    border: 5px solid #999999;
+}/*4,5,6*/
+
+.preparo{font-size: 21px; color: black;font-weight: medium;}/*7*/
+
+.rendimento{font-size: 21px; color:black;font-weight: medium;}/*8*/
+
+
+
+ul {
+    font-size:21px;
+    font-weight: 600;
+    line-height: 1.61em;}/*10*/
+
+    ol > li {
+        font-size: 21px;
+        font-weight: 600;
+        line-height:1.61em;} /*11*/
+
+        video{ width: 883px; height: 497px;}/*13*/
+
+
+.up{text-transform: uppercase;font-size: 21px;font-weight:900;color: #0037B3;text-indent:55px  
+    ;}/*14*/
