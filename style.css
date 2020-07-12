@@ -1,8 +1,14 @@
-:root{font-family:'Montserrat', sans-serif;}
+* {
+    width: 883px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    font-weight: 900;}
 
-.imagem_principal{ width:883px; height:374px ;}/*12*/
 
-.titulo_1{font-Weight:900px;font-size:89px;Line-Height: 79px;Color: #FFB300}/*1*/
+.imagem_principal{ width:883px; height:374px ;}
+/*12*/
+
+.titulo_1 {font-Weight:900px;font-size:89px;Line-Height: 79px;Color: #FFB300}/*1*/
 
 .titulo_2{font-Weight:900px;Color: #FFB300}
 
